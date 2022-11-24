@@ -1,4 +1,8 @@
-<p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
+<p align="center">
+<img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" />
+<img src="buildroot/share/pixmaps/logo/artiellery-3d.png" height="250" alt="MarlinFirmware's logo" />
+<img src="buildroot/share/pixmaps/logo/Big-tech-tree.png" height="250" alt="MarlinFirmware's logo" />
+</p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
 
