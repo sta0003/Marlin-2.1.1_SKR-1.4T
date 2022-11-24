@@ -16,8 +16,14 @@
     <a href="https://twitter.com/MarlinFirmware"><img alt="Follow MarlinFirmware on Twitter" src="https://img.shields.io/twitter/follow/MarlinFirmware?style=social&logo=twitter"></a>
 </p>
 
-Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
-Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
+
+## Modified Firmware
+
+The Marlin 2.1 firmware has been modified to operate on the SKR 1.4 Turbo with Artillery Sidewinder X-1.
+- BLTouch.
+- Full metal hotend max temp support.
+
+
 
 ## Marlin 2.1
 
